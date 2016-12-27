@@ -2,7 +2,7 @@
   "name": "escposify",
   "version": "0.1.4",
   "description": "ESC/POS Printer driver for node.js",
-  "homepage": "https://github.com/taoyuan/escposify",
+  "homepage": "https://github.com/athos/escposify",
   "author": {
     "name": "taoyuan",
     "email": "towyuan@outlook.com",
@@ -17,7 +17,6 @@
     "thermal",
     "print",
     "printer",
-    "usb",
     "file",
     "console"
   ],
@@ -32,8 +31,7 @@
     "iconv-lite": "^0.4.13",
     "lodash": "^4.6.1",
     "mutable-buffer": "^1.0.2",
-    "qr-image": "^3.1.0",
-    "usb": "^1.1.1"
+    "qr-image": "^3.1.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
