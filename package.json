@@ -2,7 +2,7 @@
   "name": "escposify",
   "version": "0.1.4",
   "description": "ESC/POS Printer driver for node.js",
-  "homepage": "https://github.com/athos/escposify",
+  "homepage": "https://github.com/nyampass/escposify",
   "author": {
     "name": "taoyuan",
     "email": "towyuan@outlook.com",
@@ -20,7 +20,7 @@
     "file",
     "console"
   ],
-  "repository": "taoyuan/escposify",
+  "repository": "nyampass/escposify",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
